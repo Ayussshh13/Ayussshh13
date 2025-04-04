@@ -13,18 +13,17 @@
 
 - 🎓 I’m a **1st Year B.Tech Student**
 - 🧠 I love writing code & solving real-world problems
-- 🌍 I’m based in **Dehradun, India**
-- ✨ Currently exploring **Data Structures**, **OOPs**, and **Linux**
-- 💬 Ask me about **Python, C, Bash**, or even Java basics!
-- 📫 How to reach me: **ayushaithani13@gmail.com**
-- 🌐 Connect on [LinkedIn](https://linkedin.com/ayush)
+- 🌍 Based in **Dehradun, India**
+- ✨ Exploring **Data Structures**, **OOPs**, and **Linux**
+- 💬 Ask me about **Python, C**, or **Java basics**
+- 📫 Reach me: **ayushaithani13@gmail.com**
+- 🌐 [LinkedIn](https://linkedin.com/ayush)
 
 ---
 
 ## 💻 Languages I Know
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
